@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "AngularLesoon1"
+  "defaultProject": "AngularLesoon1",
+  "cli": {
+    "analytics": false
+  }
 }
